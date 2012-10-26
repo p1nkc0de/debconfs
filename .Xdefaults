@@ -1,0 +1,32 @@
+URxvt*scrollBar:	false
+URxvt*perl-ext-common:	default,tabbedex
+
+URxvt*font:		*-terminus-*-r-*-*-*-*-*-*-*-*-iso8859-*
+
+URxvt*background:	#1a1a1a
+URxvt*foreground:	#d1d1d1
+URxvt*color0:		#1a1a1a
+URxvt*color1:		#cf3f3f
+URxvt*color2:		#467f41
+URxvt*color3:		#c6bf4f
+URxvt*color4:		#4f8fc6
+URxvt*color5:		#b94fc6
+URxvt*color6:		#52aeaf
+URxvt*color7:		#d1d1d1
+URxvt*color8:		#3d3d3d
+URxvt*color9:		#f96f6f
+URxvt*color10:		#75c56e
+URxvt*color11:		#f0ea8a
+URxvt*color12:		#87c0f2
+URxvt*color13:		#e88df3
+URxvt*color14:		#91dedf
+URxvt*color15:		#ffffff
+
+URxvt*tabbed*tabbar-bg:	8
+URxvt*tabbed*tabbar-fg:	7
+URxvt*tabbed*tab-bg:	0
+URxvt*tabbed*tab-fg:	7
+URxvt*tabbed*title:	no
+
+xterm*faceName:		terminus
+xterm*faceSize:		8
